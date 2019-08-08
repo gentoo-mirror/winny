@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Some simple scripts to manage package manager tasks
+EAPI=6
+HOMEPAGE=https://github.com/winny-/winny-gentoo-tools
+KEYWORDS=~amd64
+LICENSE=Unlicense
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_md5_=87fa54ac3307768a3b719c932baf2476
