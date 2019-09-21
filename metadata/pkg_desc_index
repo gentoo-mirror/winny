@@ -1,3 +1,4 @@
+app-crypt/keybase-bin 4.5.0_p20190919193603-r1: Keybase Go client, filesystem, and GUI
 app-text/urlview 0.9_p21: A curses URL parser for text files
 dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguelike developers.
 dev-lang/smlnj 110.82 110.82-r1: Standard ML of New Jersey compiler and libraries
