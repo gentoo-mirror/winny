@@ -9,7 +9,7 @@ games-roguelike/brogue 1.7.5: A 26-level dungeon crawl to the Amulet of Yendor.
 games-util/eureka 124-r1: Map editor for the classic DOOM and related games such as Heretic and Hexen
 media-sound/mpvc 1.0.7: mpc-like tool which connects to existing mpv instances through sockets.
 net-im/chatty-bin 0.9.6 0.9.7: A chat software specifically made for Twitch
-net-im/ripcord-bin 0.4.6 0.4.7 0.4.7-r1 0.4.8 0.4.9 0.4.10 0.4.11 0.4.12 0.4.13 0.4.14 0.4.15 0.4.16 0.4.17: a desktop chat client for group-centric services like Slack and Discord
+net-im/ripcord-bin 0.4.6 0.4.7 0.4.7-r1 0.4.8 0.4.9 0.4.10 0.4.11 0.4.12 0.4.13 0.4.14 0.4.15 0.4.16 0.4.17 0.4.18: a desktop chat client for group-centric services like Slack and Discord
 net-misc/sacc 1.00 1.00-r1: sacc(omys), simple console gopher client
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
 x11-misc/xbanish 1.5 9999: banish the mouse cursor when typing, show it again when the mouse moves
