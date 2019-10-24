@@ -6,6 +6,7 @@ games-emulation/retroarch 1.3.6-r3 1.4.1 1.5.0 1.6.7-r1 1.6.9 1.7.1 1.7.3 9999-r
 games-fps/quakespasm 0.85.9 0.93.1: A *nix firendly FitzQuake with new features
 games-fps/zandronum 3.0-r1 3.0-r2: OpenGL ZDoom port with Client/Server multiplayer
 games-roguelike/brogue 1.7.5: A 26-level dungeon crawl to the Amulet of Yendor.
+games-roguelike/tsl 0.40: The Slimy Lichmummy is an adventure game by Ulf Åström, similar in style to the classic "Rogue"
 games-util/eureka 124-r1: Map editor for the classic DOOM and related games such as Heretic and Hexen
 media-fonts/go 9999 20191011: Go font family
 media-sound/mpvc 1.0.7: mpc-like tool which connects to existing mpv instances through sockets.
