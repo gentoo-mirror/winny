@@ -3,6 +3,9 @@
 # * generated automatically using pmaint *
 
 dev-lang/smlnj:pax_kernel - Enable if the user plans to run the package under a pax enabled hardened kernel
+dev-scheme/racket:futures - Enable racket/future library for fine-grained hardware parallelism
+dev-scheme/racket:places - Enable racket/place library for share-nothing parallelism and message-passing communication. Compared to futures, places are heavyweight, but they have a simpler performance model.
+dev-scheme/racket:threads - Enable support for green threads
 games-emulation/retroarch:7zip - Enable 7z support
 games-emulation/retroarch:alsa - Enable ALSA audio support
 games-emulation/retroarch:armvfp - Enable Vector Floating Point (VFP) instruction set support for post-ARMv5 ARM architectures
