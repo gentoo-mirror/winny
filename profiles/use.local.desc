@@ -52,3 +52,4 @@ games-emulation/retroarch:zlib - Enable zlib support (ZIP extract, PNG decoding/
 games-fps/zandronum:dedicated - Build zandronum-server
 games-fps/zandronum:gtk - Build graphical IWAD picker
 games-fps/zandronum:opengl - Build zandronum client
+www-client/qutebrowser:scripts - Installs userscripts from the misc/userscripts directory to /usr/share/qutebrowser/userscripts.
