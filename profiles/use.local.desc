@@ -53,3 +53,5 @@ games-fps/zandronum:dedicated - Build zandronum-server
 games-fps/zandronum:gtk - Build graphical IWAD picker
 games-fps/zandronum:opengl - Build zandronum client
 www-client/qutebrowser:scripts - Installs userscripts from the misc/userscripts directory to /usr/share/qutebrowser/userscripts.
+x11-wm/stumpwm:contrib - Install contrib modules
+x11-wm/stumpwm:doc - Include documentation
