@@ -15,7 +15,7 @@ media-sound/mpvc 1.0.7: mpc-like tool which connects to existing mpv instances t
 net-im/chatty-bin 0.9.6 0.9.7 0.10: A chat software specifically made for Twitch
 net-im/ripcord-bin 0.4.6 0.4.7 0.4.7-r1 0.4.8 0.4.9 0.4.10 0.4.11 0.4.12 0.4.13 0.4.14 0.4.15 0.4.16 0.4.17 0.4.18 0.4.19 0.4.19-r1: a desktop chat client for group-centric services like Slack and Discord
 net-misc/sacc 1.00 1.00-r1: sacc(omys), simple console gopher client
-net-misc/streamlink 1.2.0: CLI for extracting streams from websites to a video player of your choice
+net-misc/streamlink 1.2.0 1.3.0: CLI for extracting streams from websites to a video player of your choice
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
 www-client/qutebrowser 1.8.1: A keyboard-driven, vim-like browser based on PyQt5 and QtWebEngine
 www-servers/darkhttpd 1.8: When you need a web server in a hurry
