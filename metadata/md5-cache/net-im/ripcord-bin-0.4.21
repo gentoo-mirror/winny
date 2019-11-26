@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm prepare unpack
+DESCRIPTION=a desktop chat client for group-centric services like Slack and Discord
+EAPI=7
+HOMEPAGE=https://cancel.fm/ripcord/
+KEYWORDS=-* ~amd64
+LICENSE=ripcord-alpha-preview
+RDEPEND=dev-libs/glib:2 dev-libs/libbsd dev-libs/libpcre sys-libs/zlib x11-libs/libXau x11-libs/libXdmcp x11-libs/libxcb virtual/opengl x11-libs/libX11 sys-fs/fuse
+RESTRICT=mirror bindist
+SLOT=0
+SRC_URI=https://cancel.fm/dl/Ripcord-0.4.21-x86_64.AppImage
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=b51150c777d20b34796593d0a91e9764
