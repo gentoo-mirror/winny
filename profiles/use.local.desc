@@ -6,49 +6,6 @@ dev-lang/smlnj:pax_kernel - Enable if the user plans to run the package under a 
 dev-scheme/racket:futures - Enable racket/future library for fine-grained hardware parallelism
 dev-scheme/racket:places - Enable racket/place library for share-nothing parallelism and message-passing communication. Compared to futures, places are heavyweight, but they have a simpler performance model.
 dev-scheme/racket:threads - Enable support for green threads
-games-emulation/retroarch:7zip - Enable 7z support
-games-emulation/retroarch:alsa - Enable ALSA audio support
-games-emulation/retroarch:armvfp - Enable Vector Floating Point (VFP) instruction set support for post-ARMv5 ARM architectures
-games-emulation/retroarch:assets - Add games-emulation/retroarch-assets as dependency
-games-emulation/retroarch:cg - Enable Cg shader support
-games-emulation/retroarch:cheevos - Enable Archievment support via http://retroachievements.org/
-games-emulation/retroarch:cores - Changes default retroarch.cfg to the standardpath of the libretro* ebuilds
-games-emulation/retroarch:database - Add games-emulation/libretro-database as dependency
-games-emulation/retroarch:dispmanx - Enable Dispmanx video support, for arm only
-games-emulation/retroarch:egl - Enable EGL context support
-games-emulation/retroarch:ffmpeg - Enable FFmpeg recording support
-games-emulation/retroarch:gles2 - Use GLESv2 instead of OpenGL
-games-emulation/retroarch:gles3 - Enable OpenGLES3 support
-games-emulation/retroarch:jack - Enable JACK audio support
-games-emulation/retroarch:joypad_autoconfig - adds games-emulation/retroarch-joypad-autoconfig as dependency
-games-emulation/retroarch:kms - Enable KMS context support (for OpenGL-based execution from a virtual terminal outside of a display server)
-games-emulation/retroarch:lakka - Enable settings like in Retroarchs Linux distrubtion Lakka
-games-emulation/retroarch:libass - Enable libass SSA/ASS FFmpeg-based subtitle support
-games-emulation/retroarch:libusb - Enable libusb gamepad support
-games-emulation/retroarch:materialui - Enable materialui menu (named glui in driver selection)
-games-emulation/retroarch:miniupnpc - Enable Mini UPnP client library (for NAT traversal)
-games-emulation/retroarch:network - Enable network support (recommended)
-games-emulation/retroarch:openal - Enable OpenAL audio support
-games-emulation/retroarch:opengl - Enable OpenGL display support
-games-emulation/retroarch:osmesa - Enable Off-screen Mesa rendering
-games-emulation/retroarch:oss - Enable OSS audio support
-games-emulation/retroarch:overlays - adds games-emulation/common-overlays as dependency
-games-emulation/retroarch:pulseaudio - Enable PulseAudio support
-games-emulation/retroarch:python - Enable Python 3 shader support
-games-emulation/retroarch:sdl - Enable SDL display support
-games-emulation/retroarch:sdl2 - Enable SDL2 display support
-games-emulation/retroarch:shaders - Add games-emulation/common-shaders as dependency
-games-emulation/retroarch:threads - Threading support
-games-emulation/retroarch:truetype - Enable FreeType support
-games-emulation/retroarch:udev - Udev/Evdev gamepad support
-games-emulation/retroarch:v4l2 - Enable video4linux2 support
-games-emulation/retroarch:videocore - Enables videocore context, for arm only
-games-emulation/retroarch:vulkan - Enable Vulkan display support
-games-emulation/retroarch:xinerama - Enable Xinerama support
-games-emulation/retroarch:xmb - Enable xmb menu
-games-emulation/retroarch:xml - Enable libxml2 support
-games-emulation/retroarch:xv - Enable XVideo support
-games-emulation/retroarch:zlib - Enable zlib support (ZIP extract, PNG decoding/encoding)
 games-fps/zandronum:dedicated - Build zandronum-server
 games-fps/zandronum:gtk - Build graphical IWAD picker
 games-fps/zandronum:opengl - Build zandronum client
