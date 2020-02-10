@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=mp3? ( media-libs/libmad ) ogg? ( media-libs/libvorbis ) opus? ( media-libs/opus media-libs/opusfile ) flac? ( media-libs/flac ) mikmod? ( media-libs/libmikmod ) sdl2? ( media-libs/libsdl2[opengl] ) !sdl2? ( media-libs/libsdl[opengl] )
+DESCRIPTION=A *nix firendly FitzQuake with new features
+EAPI=6
+HOMEPAGE=http://quakespasm.sourceforge.net/
+IUSE=cdinstall debug demo mp3 ogg sdl2 opus flac mikmod
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=mp3? ( media-libs/libmad ) ogg? ( media-libs/libvorbis ) opus? ( media-libs/opus media-libs/opusfile ) flac? ( media-libs/flac ) mikmod? ( media-libs/libmikmod ) sdl2? ( media-libs/libsdl2[opengl] ) !sdl2? ( media-libs/libsdl[opengl] ) cdinstall? ( games-fps/quake1-data ) demo? ( games-fps/quake1-demodata )
+SLOT=0
+SRC_URI=mirror://sourceforge/quakespasm/quakespasm-0.93.1.tgz
+_eclasses_=epatch	a1bf4756dba418a7238f3be0cb010c54
+_md5_=d3a40e1cd20f2ef36a9a1a9cb4f1f454
