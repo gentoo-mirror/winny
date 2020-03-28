@@ -27,4 +27,4 @@ www-client/links 2.20.2: A fast and lightweight web browser running in both grap
 www-client/qutebrowser 1.8.1: A keyboard-driven, vim-like browser based on PyQt5 and QtWebEngine
 www-servers/darkhttpd 1.8: When you need a web server in a hurry
 x11-misc/xbanish 1.5 9999: banish the mouse cursor when typing, show it again when the mouse moves
-x11-wm/stumpwm 18.11: Stumpwm is a Window Manager written entirely in Common Lisp.
+x11-wm/stumpwm 18.11 19.11: Stumpwm is a Window Manager written entirely in Common Lisp.
