@@ -6,6 +6,7 @@ dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguel
 dev-lang/smlnj 110.82 110.82-r1: Standard ML of New Jersey compiler and libraries
 dev-python/readability-lxml 0.6.1: fast python port of arc90's readability tool, updated to match latest readability.js!
 dev-scheme/racket 7.4 7.5 7.6: General purpose, multi-paradigm Lisp-Scheme programming language
+dev-util/android-studio 3.6.2.0.192.6308749-r1: Android development environment based on IntelliJ IDEA
 dev-util/hex2bin 2.5: Yet Another Hex to bin converter
 dev-util/hopper 4.5.16 4.5.19: Disassembler and decompiler for 32/64 bits intel and ARM executables
 games-emulation/retroarch 1.8.4-r1: Frontend for emulators, game engines and media players
