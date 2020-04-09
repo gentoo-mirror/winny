@@ -10,6 +10,10 @@ dev-util/android-studio 3.6.2.0.192.6308749-r1: Android development environment 
 dev-util/hex2bin 2.5: Yet Another Hex to bin converter
 dev-util/hopper 4.5.16 4.5.19: Disassembler and decompiler for 32/64 bits intel and ARM executables
 games-emulation/retroarch 1.8.4-r1: Frontend for emulators, game engines and media players
+games-fps/alephone 20190331: An enhanced version of the game engine from the classic Mac game, Marathon
+games-fps/alephone-durandal 20190331: Aleph One - Marathon 2 (Durandal)
+games-fps/alephone-infinity 20190331: Aleph One - Marathon Infinity
+games-fps/alephone-marathon 20190331: Aleph One - Marathon (M1A1)
 games-fps/quakespasm 0.85.9 0.93.1-r1 0.93.2-r1: A *nix firendly FitzQuake with new features
 games-fps/zandronum 3.0-r1 3.0-r2: OpenGL ZDoom port with Client/Server multiplayer
 games-roguelike/brogue 1.7.5: A 26-level dungeon crawl to the Amulet of Yendor.
