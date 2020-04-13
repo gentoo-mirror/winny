@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DEPEND=app-emulation/spim sys-devel/bison >=virtual/jre-1.8:*
+DESCRIPTION=Cool toolchain variant used to teach compilers at University of Wisconsin - Milwaukee
+EAPI=7
+HOMEPAGE=http://pabst.cs.uwm.edu/classes/cs654 http://pabst.cs.uwm.edu/classes/cs655
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-emulation/spim sys-devel/bison >=virtual/jre-1.8:*
+RESTRICT=fetch
+SLOT=0
+SRC_URI=uwm-cool-20200413.tar.gz
+_md5_=09e7c9e57bbc5db09c24a347f4c8ec2e
