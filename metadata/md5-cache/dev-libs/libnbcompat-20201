@@ -1,0 +1,10 @@
+BDEPEND=sys-devel/bmake
+DEFINED_PHASES=compile configure install
+DESCRIPTION=Portable NetBSD compatibility library
+EAPI=7
+HOMEPAGE=https://www.NetBSD.org/
+KEYWORDS=~amd64
+LICENSE=BSD
+SLOT=0
+SRC_URI=https://cdn.netbsd.org/pub/pkgsrc/pkgsrc-2020Q1/pkgsrc-2020Q1.tar.xz
+_md5_=db206b1bde68557d6afeb4222926f179

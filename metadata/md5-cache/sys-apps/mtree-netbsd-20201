@@ -1,0 +1,11 @@
+BDEPEND=sys-devel/bmake dev-libs/libnbcompat
+DEFINED_PHASES=compile configure install
+DEPEND=!sys-apps/mtree
+DESCRIPTION=Validates directory tree against specification (from NetBSD)
+EAPI=7
+HOMEPAGE=http://cdn.netbsd.org/pub/pkgsrc/current/pkgsrc/pkgtools/mtree/README.html
+KEYWORDS=~amd64
+LICENSE=BSD
+SLOT=0
+SRC_URI=https://cdn.netbsd.org/pub/pkgsrc/pkgsrc-2020Q1/pkgsrc-2020Q1.tar.xz
+_md5_=7bb7a833c9eb69dad0f57422028cdfb6

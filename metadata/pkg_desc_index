@@ -4,6 +4,7 @@ app-emulation/spim 9.1.21_p729 9999-r1 9999-r2: MIPS Simulator
 app-text/urlview 0.9_p21: A curses URL parser for text files
 dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguelike developers.
 dev-lang/uwm-cool-bin 20200413 20200413-r1 20200417 20200417-r1: Cool toolchain variant used to teach compilers at University of Wisconsin - Milwaukee
+dev-libs/libnbcompat 20201: Portable NetBSD compatibility library
 dev-python/readability-lxml 0.6.1: fast python port of arc90's readability tool, updated to match latest readability.js!
 dev-scheme/racket 7.4 7.5 7.6 7.7: General purpose, multi-paradigm Lisp-Scheme programming language
 dev-util/android-studio 3.6.2.0.192.6308749-r1: Android development environment based on IntelliJ IDEA
@@ -27,6 +28,7 @@ net-im/chatty-bin 0.10 0.11 0.12: A chat software specifically made for Twitch
 net-im/ripcord-bin 0.4.21 0.4.22 0.4.24: a desktop chat client for group-centric services like Slack and Discord
 net-misc/sacc 1.00 1.00-r1: sacc(omys), simple console gopher client
 net-misc/streamlink 1.3.1-r1: CLI for extracting streams from websites to a video player of your choice
+sys-apps/mtree-netbsd 20201: Validates directory tree against specification (from NetBSD)
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
 sys-kernel/vanilla-kernel 5.4.20 5.4.25: Linux kernel built from vanilla upstream sources
 sys-process/lavaps 2.7: a lava lamp of currently running processes
