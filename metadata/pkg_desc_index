@@ -22,6 +22,7 @@ games-util/eureka 124-r1: Map editor for the classic DOOM and related games such
 media-fonts/go 9999 20191011: Go font family
 media-fonts/ibm-plex 4.0.2: The package of IBM's typeface
 media-libs/libcsfml 2.5: C bindings for SFML
+media-plugins/noise-repellent 0.1.5: An lv2 plug-in for broadband noise reduction
 media-sound/gpodder 3.10.15: A free cross-platform podcast aggregator
 media-sound/mpvc 1.0.7: mpc-like tool which connects to existing mpv instances through sockets.
 net-im/chatty-bin 0.10 0.11 0.12: A chat software specifically made for Twitch
