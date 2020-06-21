@@ -10,6 +10,5 @@ games-fps/zandronum:gtk - Build graphical IWAD picker
 games-fps/zandronum:opengl - Build zandronum client
 media-fonts/ibm-plex:otf - Install OTF fonts
 media-fonts/ibm-plex:ttf - Install TTF fonts
-sys-kernel/vanilla-kernel:initramfs - Build initramfs along with the kernel.
 x11-wm/stumpwm:contrib - Install contrib modules
 x11-wm/stumpwm:doc - Include documentation
