@@ -24,6 +24,7 @@ media-fonts/ibm-plex 4.0.2: The package of IBM's typeface
 media-libs/libcsfml 2.5: C bindings for SFML
 media-plugins/noise-repellent 0.1.5: An lv2 plug-in for broadband noise reduction
 media-sound/gpodder 3.10.15: A free cross-platform podcast aggregator
+media-sound/mpvc 1.0.7-r1: mpc-like tool which connects to existing mpv instances through sockets.
 net-im/chatty-bin 0.10 0.11 0.12: A chat software specifically made for Twitch
 net-im/ripcord-bin 0.4.21 0.4.22 0.4.24: a desktop chat client for group-centric services like Slack and Discord
 net-misc/sacc 1.00 1.00-r1: sacc(omys), simple console gopher client
