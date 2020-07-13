@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=media-libs/libpng:= virtual/opengl dev-lang/nasm
+DESCRIPTION=Improved mupen64plus libretro core reimplementation
+EAPI=7
+HOMEPAGE=https://github.com/libretro/mupen64plus-libretro-nx
+IUSE=debug
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-libs/libpng:= virtual/opengl
+SLOT=0
+SRC_URI=https://github.com/libretro/mupen64plus-libretro-nx/archive/363c47aaa950b40a8d702518f4274ef83de4f3b5.tar.gz -> libretro-mupen64plus-next-1.0_pre20200711.tar.gz
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	f1194291b9a1baca337c1c89b5f7f365	libretro-core	cca0138c385d9632ef6d53169a0865fa	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=f3fe78546bafd4468003181f74c972f0
