@@ -7,7 +7,7 @@ dev-lang/uwm-cool-bin 20200413 20200413-r1 20200417 20200417-r1: Cool toolchain 
 dev-libs/libnbcompat 20201: Portable NetBSD compatibility library
 dev-python/readability-lxml 0.6.1: fast python port of arc90's readability tool, updated to match latest readability.js!
 dev-scheme/racket 7.4 7.5 7.6 7.7: General purpose, multi-paradigm Lisp-Scheme programming language
-dev-util/android-studio 3.6.2.0.192.6308749-r1: Android development environment based on IntelliJ IDEA
+dev-util/android-studio 3.6.2.0.192.6308749-r1 4.0.1.0.193.6626763-r1: Android development environment based on IntelliJ IDEA
 dev-util/hex2bin 2.5: Yet Another Hex to bin converter
 dev-util/hopper 4.5.25: Disassembler and decompiler for 32/64 bits intel and ARM executables
 games-emulation/libretro-mupen64plus-next 1.0_pre20200711: Improved mupen64plus libretro core reimplementation
