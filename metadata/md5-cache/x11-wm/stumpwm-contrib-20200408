@@ -9,5 +9,5 @@ PDEPEND=virtual/commonlisp
 PROPERTIES=live
 RDEPEND=>=x11-wm/stumpwm-1.0.0
 SLOT=0
-_eclasses_=common-lisp-3	267124db452231b7e159152d88c6674d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=common-lisp-3	267124db452231b7e159152d88c6674d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=cbc4006660ac1d82096740da8e300dcb
