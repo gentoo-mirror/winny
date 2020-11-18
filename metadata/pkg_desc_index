@@ -6,6 +6,7 @@ dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguel
 dev-lang/uwm-cool-bin 20200413 20200413-r1 20200417 20200417-r1: Cool toolchain variant used to teach compilers at University of Wisconsin - Milwaukee
 dev-libs/libnbcompat 20201: Portable NetBSD compatibility library
 dev-python/readability-lxml 0.6.1: fast python port of arc90's readability tool, updated to match latest readability.js!
+dev-qt/qtwebengine 5.15.1-r1: Library for rendering dynamic web content in Qt5 C++ and QML applications
 dev-scheme/racket 7.4 7.5 7.6 7.7: General purpose, multi-paradigm Lisp-Scheme programming language
 dev-util/android-studio 3.6.2.0.192.6308749-r1 4.0.1.0.193.6626763-r1: Android development environment based on IntelliJ IDEA
 dev-util/hex2bin 2.5: Yet Another Hex to bin converter
