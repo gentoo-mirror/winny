@@ -28,11 +28,12 @@ media-libs/libcsfml 2.5: C bindings for SFML
 media-plugins/noise-repellent 0.1.5: An lv2 plug-in for broadband noise reduction
 media-sound/gpodder 3.10.15: A free cross-platform podcast aggregator
 media-sound/mpvc 1.0.7-r1: mpc-like tool which connects to existing mpv instances through sockets.
+media-sound/sonata 1.7_beta1_p20200212: Elegant GTK+ music client for the Music Player Daemon (MPD)
 media-video/handbrake 1.3.3-r1: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
 net-im/chatty-bin 0.10 0.11 0.12: A chat software specifically made for Twitch
 net-misc/drawterm 9999: connect to Plan 9 CPU servers from other operating systems
 net-misc/sacc 1.00-r1: sacc(omys), simple console gopher client
-net-misc/streamlink 1.5.0: CLI for extracting streams from websites to a video player of your choice
+net-misc/streamlink 1.5.0 2.0.0: CLI for extracting streams from websites to a video player of your choice
 sys-apps/mtree-netbsd 20201: Validates directory tree against specification (from NetBSD)
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
 sys-process/lavaps 2.7: a lava lamp of currently running processes
