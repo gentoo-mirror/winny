@@ -1,6 +1,5 @@
 app-admin/cdist 6.4.0: A usable configuration management system
 app-emulation/protontricks 1.3.1-r1: A simple wrapper that does winetricks things for Proton enabled games
-app-emulation/spim 9.1.21_p729 9999-r1 9999-r2: MIPS Simulator
 app-text/urlview 0.9_p21: A curses URL parser for text files
 dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguelike developers.
 dev-lang/uwm-cool-bin 20200413 20200413-r1 20200417 20200417-r1: Cool toolchain variant used to teach compilers at University of Wisconsin - Milwaukee
