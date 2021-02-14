@@ -5,6 +5,7 @@ app-text/urlview 0.9_p21: A curses URL parser for text files
 dev-games/libtcod 1.5.1: A free, fast, portable and uncomplicated API for roguelike developers.
 dev-lang/uwm-cool-bin 20200413 20200413-r1 20200417 20200417-r1: Cool toolchain variant used to teach compilers at University of Wisconsin - Milwaukee
 dev-libs/libnbcompat 20201: Portable NetBSD compatibility library
+dev-python/adblock 0.4.1: Brave's adblock library in Python
 dev-python/readability-lxml 0.6.1: fast python port of arc90's readability tool, updated to match latest readability.js!
 dev-qt/qtwebengine 5.15.1-r1: Library for rendering dynamic web content in Qt5 C++ and QML applications
 dev-scheme/racket 7.4 7.5 7.6 7.7: General purpose, multi-paradigm Lisp-Scheme programming language
@@ -38,7 +39,7 @@ sys-apps/mtree-netbsd 20201: Validates directory tree against specification (fro
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
 sys-process/lavaps 2.7: a lava lamp of currently running processes
 www-client/links 2.20.2: A fast and lightweight web browser running in both graphics and text mode
-www-client/qutebrowser 1.13.0 1.13.1: A keyboard-driven, vim-like browser based on PyQt5 and QtWebEngine
+www-client/qutebrowser 2.0.2: A keyboard-driven, vim-like browser based on QtWebEngine
 www-servers/darkhttpd 1.8: When you need a web server in a hurry
 x11-misc/rofi-pass 2.0.2: Rofi frontend for pass
 x11-misc/xbanish 1.5 9999: banish the mouse cursor when typing, show it again when the mouse moves
