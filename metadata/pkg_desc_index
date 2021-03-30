@@ -23,6 +23,7 @@ games-roguelike/brogue 1.7.5: A 26-level dungeon crawl to the Amulet of Yendor.
 games-roguelike/tsl 0.40 0.40-r1: The Slimy Lichmummy is an adventure game by Ulf Astrom, similar in style to the classic "Rogue"
 games-util/eureka 124-r1: Map editor for the classic DOOM and related games such as Heretic and Hexen
 gui-apps/gammastep 2.0.5: A screen color temperature adjusting software
+media-fonts/go 9999 20191011: Go font family
 media-fonts/ibm-plex 4.0.2: The package of IBM's typeface
 media-libs/libcsfml 2.5: C bindings for SFML
 media-plugins/noise-repellent 0.1.5: An lv2 plug-in for broadband noise reduction
