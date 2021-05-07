@@ -37,6 +37,7 @@ net-misc/sacc 1.00-r1: sacc(omys), simple console gopher client
 net-misc/streamlink 1.5.0 2.0.0: CLI for extracting streams from websites to a video player of your choice
 sys-apps/mtree-netbsd 20201: Validates directory tree against specification (from NetBSD)
 sys-apps/winny-gentoo-tools 9999: Some simple scripts to manage package manager tasks
+sys-firmware/sof-firmware 1.7: Sound Open Firmware (SOF) binary files
 sys-process/lavaps 2.7: a lava lamp of currently running processes
 www-client/links 2.20.2: A fast and lightweight web browser running in both graphics and text mode
 www-client/qutebrowser 2.0.2: A keyboard-driven, vim-like browser based on QtWebEngine
