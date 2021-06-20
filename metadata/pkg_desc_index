@@ -13,9 +13,6 @@ dev-util/hopper 4.5.25 4.7.5: Disassembler and decompiler for 32/64 bits intel a
 games-emulation/libretro-mupen64plus-next 1.0_pre20200711: Improved mupen64plus libretro core reimplementation
 games-emulation/retroarch 1.8.9-r1: Frontend for emulators, game engines and media players
 games-fps/alephone 20190331-r1 20200416_pre 99999999: An enhanced version of the game engine from the classic Mac game, Marathon
-games-fps/alephone-durandal 20190331: Aleph One - Marathon 2 (Durandal)
-games-fps/alephone-infinity 20190331: Aleph One - Marathon Infinity
-games-fps/alephone-marathon 20190331: Aleph One - Marathon (M1A1)
 games-fps/quakespasm 0.93.1-r1 0.93.2-r1: A *nix firendly FitzQuake with new features
 games-roguelike/brogue 1.7.5: A 26-level dungeon crawl to the Amulet of Yendor.
 games-roguelike/tsl 0.40 0.40-r1: The Slimy Lichmummy is an adventure game by Ulf Astrom, similar in style to the classic "Rogue"
