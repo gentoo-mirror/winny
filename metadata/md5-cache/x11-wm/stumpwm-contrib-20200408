@@ -10,5 +10,5 @@ PDEPEND=virtual/commonlisp
 PROPERTIES=live
 RDEPEND=>=x11-wm/stumpwm-1.0.0
 SLOT=0
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	6da6797255ab7fb848a02afa0cbc406f	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a	common-lisp-3	a97d222ba41a4aac0fb3026d35237735	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a	common-lisp-3	d401227d00e02435df5b2295c7a5e972	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=cbc4006660ac1d82096740da8e300dcb
