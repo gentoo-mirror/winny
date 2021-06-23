@@ -8,5 +8,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=f6091ade47549d1822098ce047efab21
