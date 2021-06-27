@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst
+DEPEND=app-arch/unzip
+DESCRIPTION=Aleph One - Marathon Infinity
+EAPI=7
+HOMEPAGE=http://marathon.sourceforge.net/
+INHERIT=desktop
+KEYWORDS=~amd64 ~x86
+LICENSE=bungie-marathon
+RDEPEND=games-fps/alephone
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20190331/MarathonInfinity-20190331-Data.zip
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28
+_md5_=274933444d7409be82447b8f56b3ebd5
